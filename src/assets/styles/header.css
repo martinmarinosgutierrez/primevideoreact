@@ -1,0 +1,33 @@
+.header {
+
+    top: 0px;
+    width: 100%;
+    height: 45px;
+    background-color: #1A242F;
+    
+}
+
+.grid-container-header {
+    display: grid;
+    height: 30px;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+
+  }
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    }
+
+li{
+    float: left;
+    display: block;
+
+    color: white;
+    text-decoration: none;
+    }
+.header_icon{
+    width: 60px;
+}
